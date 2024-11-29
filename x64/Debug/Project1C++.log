@@ -1,0 +1,14 @@
+﻿  Main.cpp
+C:\Users\ADMIN\source\repos\Project1C++\Project1C++\Main.cpp(42,25): warning C4305: '=': truncation from 'int' to 'float'
+C:\Users\ADMIN\source\repos\Project1C++\Project1C++\Main.cpp(79,38): warning C4129: '%': unrecognized character escape sequence
+C:\Users\ADMIN\source\repos\Project1C++\Project1C++\Main.cpp(105,20): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+C:\Users\ADMIN\source\repos\Project1C++\Project1C++\Main.cpp(105,20): warning C4244:         with
+C:\Users\ADMIN\source\repos\Project1C++\Project1C++\Main.cpp(105,20): warning C4244:         [
+C:\Users\ADMIN\source\repos\Project1C++\Project1C++\Main.cpp(105,20): warning C4244:             _Tp=double
+C:\Users\ADMIN\source\repos\Project1C++\Project1C++\Main.cpp(105,20): warning C4244:         ]
+C:\Users\ADMIN\source\repos\Project1C++\Project1C++\Main.cpp(221,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\source\repos\Project1C++\Project1C++\Main.cpp(222,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\source\repos\Project1C++\Project1C++\Main.cpp(224,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\source\repos\Project1C++\Project1C++\Main.cpp(225,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\source\repos\Project1C++\Project1C++\Main.cpp(248,39): warning C4129: '%': unrecognized character escape sequence
+  Project1C++.vcxproj -> C:\Users\ADMIN\source\repos\Project1C++\x64\Debug\Project1C++.exe
